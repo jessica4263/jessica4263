@@ -1,8 +1,10 @@
 # 💫 About Me:
 🚀 I'm currently developing an Ebay clone App<br>👯‍♀️ I'm looking to collaborate in Open Source Web Projects<br>🤓 I'm currently learning React and Web Development<br>📝 Ask me about Books and travel!<br>⚡ Fun fact: I can play the piano and I am a girl Scout <br>
 
-# 👩‍💻 My Work:
-[![Click here to see my portfolio](/-Click%20here%20to%20see%20my%20portfolio-blue?style=for-the-badge&logo=github)](https://your-portfolio-link.com)
+# 👩‍💻 My Portfolio:
+[![Click here to see my portfolio](https://img.shields.io/badge/Click%20here%20to%20see%20my%20portfolio-%23A569BD?style=for-the-badge&colorA=%238A2BE2&colorB=%23DDA0DD)](https://portfolio2024-jessicaduarte.netlify.app/)
+
+
 
 
 ## 🌐 Socials:
